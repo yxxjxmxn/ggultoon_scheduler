@@ -1,2 +1,2 @@
-# webtoon_scheduler_springboot
-스케줄러 소스.
+# ggultoon_scheduler_springboot
+꿀툰 스케줄러
